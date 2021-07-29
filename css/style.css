@@ -1,0 +1,174 @@
+header{
+	margin-top:70px;
+}
+body{
+	margin-left:80px ;
+	margin-right:80px ;
+}
+footer{
+	margin-left:100px ;
+	margin-right:100px ;
+}
+.logo{
+	height: 56px;
+	width: 66px;
+	padding-left: 45px;
+}
+.burger{
+	height: 40px;
+	width: auto;
+}
+.header-div{
+	display: flex;
+	justify-content: space-between;
+}
+.first-header{
+	font-size: 55px;
+	color: #707070;
+	margin-top: 100px;
+	margin-bottom: 28px;
+}
+.div-first{
+	display: flex;
+	justify-content: space-between;
+	
+}
+.div-first article img{
+	width: 85%;
+	margin-right: 10px;
+}
+.second-div{
+	display: flex;
+}
+.second-div article{
+	margin-right: 25px;
+	width:50%;
+}
+.second-div article p{
+	font-size: 19px;
+	color: #707070;
+	margin-top:100px;
+}
+.third-div{
+	display: flex;
+	margin-top: 100px;
+}
+.third-div article img{
+	width:600px;
+	height: auto;
+}
+.text-1{
+	align-self: center;
+	padding-right: 70px;
+	font-size: 26px;
+	color: #707070;
+}
+.div-4{
+	display: flex;
+	margin-top: 70px;
+}
+.div-4 article h3{
+	font-size: 35px;
+	color: #585858;
+}
+.div-4 p{
+	color: #707070;
+	font-size: 19px;
+}
+.text-2{
+	box-sizing: border-box; 
+	align-self: center;
+}
+.text-2 h3{
+	margin-bottom: 35px;
+	font-size: 900px;
+}
+.div-4 article img{
+	width:600px;
+	height: auto;
+	padding-right: 70px;
+}
+.astonaut-img{
+	width: 100%;
+	margin-top: 80px;
+}
+.last-section img{
+	margin-bottom: 80px;
+}
+.last-section p{
+	font-size: 34px;
+	color: #585858;
+}
+.footer-logo{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 60px;
+	margin-top: 90px;
+}
+.natarajan{
+   margin-right: 50px;
+}
+.footer-main{
+	border-top: solid 2px #707070;
+}
+.footer-flex{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+.footer-flex article ul li{
+	padding-bottom: 20px;
+	color: #707070;
+}
+.footer-flex article h2{
+	margin-bottom: 50px;
+	padding-top: 60px;
+	color: #707070;
+}	
+.footer-flex article ul li :hover {
+	color: #FF7A00;
+}
+.footer-flex article ul li a{
+	color: #707070;
+	transition: 0.5s;
+}
+.last-text{
+	text-align: center;
+	margin-top: 90px;
+}
+.last-text p{
+	color: #707070;
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+.read-more a{
+	color:#707070 ;
+	transition: 0.5s;
+}
+.read-more :hover{
+	color: #FF7A00;
+}
+.icons{
+	display: flex;
+	justify-content: center;
+	margin-top: 80px;
+	margin-bottom: 160px
+}
+.icons img{
+	padding-right: 35px;
+}
+h2{
+	font-family: trajan;
+}
+h3{
+	font-family: trajan;
+}
+p{
+	font-family: trajan;
+}
+a{
+	font-family: trajan;
+}
+.footer-flex article{
+	margin-right: 60px;
+}
